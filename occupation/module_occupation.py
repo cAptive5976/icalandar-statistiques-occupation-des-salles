@@ -1,5 +1,15 @@
 from datetime import datetime
 
+"""
+.. module:: module_occupation
+   :platform: Unix
+   :synopsis: module pour extraire les données des fichiers icalandar
+
+.. moduleauthor:: Lamberton William <william.lamberton@etu.univ-poitiers.fr>  Martin-Jove Charles <charles.martin-jove@etu.univ-poitiers.fr>
+
+
+"""
+
 def extract_data(file_list):
     """Ouvre les fichiers et les lit.
 
